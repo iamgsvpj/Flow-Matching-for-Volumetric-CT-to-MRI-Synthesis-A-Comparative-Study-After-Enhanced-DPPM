@@ -1,0 +1,2 @@
+# Flow-Matching-for-Volumetric-CT-to-MRI-Synthesis-A-Comparative-Study-After-Enhanced-DPPM
+Our model employs a 3.98M-parameter 3D U-Net velocity predictor conditioned on dual CT intensity windows (wide cranial bone window and narrow soft-tissue parenchyma window), trained with a flow-matching objective augmented by time-weighted L1 and 3D spatial gradient consistency losses, and integrated via a 20-step Euler ordinary ODE solver.
